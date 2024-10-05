@@ -1,0 +1,5 @@
+#discordのトークン
+token:
+
+#メッセージを送信するチャンネル
+send_channel_id:
